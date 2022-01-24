@@ -3,7 +3,7 @@
 This is a paginator for pycord.
 It takes a list of embeds and makes them paginated with buttons
 
-![Example](https://github.com/FusionSid/Pycord-Paginator/blob/main/image.png)
+![Example](https://github.com/FusionSid/Pycord-Paginator/blob/main/example.png)
 
 ## Usage
 
