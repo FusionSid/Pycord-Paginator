@@ -19,7 +19,7 @@ async def func_name(ctx):
 
     view = Paginator(ctx=ctx, ems=ems)
 
-    message = await ctx.send(embed=em, view=view)
+    message = await ctx.send(embed=embed1, view=view)
 
     # This part is optional but it makes it so that once the button timeouts it will be disabled so you wont get any INTERACTION FAILED errors.
     res = await view.wait()
